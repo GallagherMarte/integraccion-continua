@@ -1,8 +1,8 @@
 // index.js
 function holaMundo() {
-    return "Hola Mundo";
+    return "Hola a todos en el Mundo";
 }
 
 console.log(holaMundo());
 
-module.exports = holaMundo; // Exporta la función
+module.exports = holaMundo;
